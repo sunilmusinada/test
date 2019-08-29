@@ -1,0 +1,274 @@
+/* @font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?aua57w');
+  src:  url('fonts/icomoon.eot?aua57w#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?aua57w') format('truetype'),
+    url('fonts/icomoon.woff?aua57w') format('woff'),
+    url('fonts/icomoon.svg?aua57w#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Area:before {
+  content: "\e900";
+}
+.icon-back:before {
+  content: "\e901";
+}
+.icon-Settings_Change-weight:before {
+  content: "\e902";
+}
+.icon-disposition-history:before {
+  content: "\e903";
+}
+.icon-disposition:before {
+  content: "\e904";
+}
+.icon-disposition_high:before {
+  content: "\e905";
+}
+.icon-disposition_low:before {
+  content: "\e906";
+}
+.icon-Enterprise:before {
+  content: "\e907";
+}
+.icon-error-message:before {
+  content: "\e908";
+}
+.icon-less:before {
+  content: "\e909";
+}
+.icon-more:before {
+  content: "\e90a";
+}
+.icon-more2:before {
+  content: "\e92b";
+}
+.icon-notification:before {
+  content: "\e90b";
+}
+.icon-pin:before {
+  content: "\e90c";
+}
+.icon-pinned:before {
+  content: "\e90d";
+}
+.icon-Plant:before {
+  content: "\e90e";
+}
+.icon-print:before {
+  content: "\e90f";
+}
+.icon-properties:before {
+  content: "\e910";
+}
+.icon-realtime-trend:before {
+  content: "\e911";
+}
+.icon-rule-break-indication:before {
+  content: "\e912";
+}
+.icon-rule-break:before {
+  content: "\e913";
+}
+.icon-saved-filter:before {
+  content: "\e914";
+}
+.icon-saved-view:before {
+  content: "\e91b";
+}
+.icon-search:before {
+  content: "\e916";
+}
+.icon-tuning-history:before {
+  content: "\e917";
+}
+.icon-Unit:before {
+  content: "\e918";
+}
+.icon-pause:before {
+  content: "\e915";
+}
+.icon-play:before {
+  content: "\e919";
+}
+.icon-refresh:before {
+  content: "\e91a";
+}
+.icon-Site:before {
+  content: "\e91c";
+}
+.icon-Settings_Add-unit-role:before {
+  content: "\e91d";
+}
+.icon-Settings_Back-from-settings:before {
+  content: "\e91e";
+}
+.icon-Settings_Benchmark-settings:before {
+  content: "\e91f";
+}
+.icon-Settings_Collapse-all:before {
+  content: "\e920";
+}
+.icon-Settings_Column-settings:before {
+  content: "\e921";
+}
+.icon-Settings_Disposition-and-email-setting:before {
+  content: "\e922";
+}
+.icon-Settings_Export-CSV:before {
+  content: "\e923";
+}
+.icon-Settings_Filter-loop-type:before {
+  content: "\e924";
+}
+.icon-Settings_Hide-unhide-assets:before {
+  content: "\e925";
+}
+.icon-Settings_KPI-grouping:before {
+  content: "\e926";
+}
+.icon-Settings_loop:before {
+  content: "\e927";
+}
+.icon-Settings_Management-settings:before {
+  content: "\e928";
+}
+.icon-Settings_Save-filter-settings:before {
+  content: "\e929";
+}
+.icon-Settings_Save-view-settings:before {
+  content: "\e92a";
+}
+.icon-minimize_detailreport:before {
+  content: "\e92c";
+}
+.icon-edit_disposition_state .path1:before {
+  content: "\e92e";
+  color: rgb(65, 65, 65);
+}
+.icon-edit_disposition_state .path2:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(65, 65, 65);
+}
+.icon-edit_disposition_state .path3:before {
+  content: "\e930";
+  margin-left: -1em;
+  color: rgb(66, 66, 66);
+}
+.icon-edit_disposition_state .path4:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(66, 66, 66);
+}
+.icon-edit:before {
+  content: "\e932";
+}
+.icon-hide:before {
+  content: "\e933";
+}
+.icon-equation_managementreport:before {
+  content: "\e934";
+}
+.icon-dustbin:before {
+  content: "\e935";
+}
+.icon-rollup_KPPI:before {
+  content: "\e936";
+}
+.icon-move-filters:before {
+  content: "\e937";
+}
+.icon-more_data_detailreport:before {
+  content: "\e938";
+}
+.icon-maximize_detailreport:before {
+  content: "\e939";
+}
+.icon-Disposition-State-:before {
+  content: "\e93a";
+}
+.icon-Disposition-Rule:before {
+  content: "\e93b";
+}
+.icon-resetfilter:before {
+  content: "\e93c";
+}
+.icon-Save:before {
+  content: "\e93d";
+}
+.icon-Aggregate-KPI:before {
+  content: "\e93e";
+}
+.icon-close:before {
+  content: "\e93f";
+}
+.icon-open:before {
+  content: "\e92d";
+}
+.icon-back_arrow:before {
+  content: "\e940";
+}
+.icon-front_arrow:before {
+  content: "\e941";
+}
+.icon-down_arrow:before {
+  content: "\e942";
+}
+.icon-up_arrow:before {
+  content: "\e943";
+}
+.icon-collapse_etail-report:before {
+  content: "\e94b";
+}
+.icon-close_live-trend:before {
+  content: "\e94c";
+}
+.icon-cell:before {
+  content: "\e944";
+}
+.icon-info:before {
+  content: "\e945";
+}
+.icon-slave:before {
+  content: "\e946";
+}
+.icon-master:before {
+  content: "\e947";
+}
+.icon-Settings_expand-all:before {
+  content: "\e948";
+}
+
+/* Honeywell Font */
+@font-face {
+  font-family: "HoneywellSansWeb-Bold";
+  src: url("fonts/HoneywellSansWeb-Bold.woff2") format("woff2"),
+    url("fonts/HoneywellSansWeb-Bold.woff") format("woff"),
+    url("fonts/HoneywellSansWeb-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "HoneywellSansWeb-Medium";
+  src: url("fonts/HoneywellSansWeb-Medium.woff2") format("woff2"),
+    url("fonts/HoneywellSansWeb-Medium.woff") format("woff"),
+    url("fonts/HoneywellSansWeb-Medium.ttf") format("truetype");
+}

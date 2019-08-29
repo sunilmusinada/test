@@ -1,0 +1,50 @@
+{
+  "AllAssets": [],
+  "Loops": [],
+  "SelectedUnit": "",
+  "SelectedCluster": [],
+  "Tabs": [
+    {
+      "Name": "Define case",
+      "description": "Group the Controllers/Measurements that are oscillating together ",
+      "icon": "shipping",
+      "active": true,
+      "completed": false
+    },
+    {
+      "Name": "Identify Cluster",
+      "description": "Identify the clusters for the selected Cases",
+      "icon": "shipping",
+      "active": false,
+      "completed": false
+    },
+    {
+      "Name": "RootCause Analysis Result",
+      "description": "Select the Cluster to run Root Cause Analysis",
+      "icon": "shipping",
+      "active": false,
+      "completed": false
+    }
+  ],
+  "errors": [],
+  "SelectedLoops": [],
+  "SelectedTab": "Define case",
+  "TimeRanges": [],
+  "Clusters": null,
+  "RootCauses": [],
+  "IdentifyClusterLoading": true,
+  "IdentifyRootCauseLoading": true,
+  "SelectedChart": "Line",
+  "SelectedClusterForChart": "",
+  "Cases": [],
+  "ModalOpened": false,
+  "SelectedUnitInModal": "",
+  "HierarchyLoops": [],
+  "SelectedHierarchyLoops": [],
+  "EnableTimeControl": true,
+  "SelectedCase": null,
+  "SaveRCAStatus": false,
+  "SaveAsClicked": false,
+  "DefaultCase": true,
+  "SaveSuccess": false
+}

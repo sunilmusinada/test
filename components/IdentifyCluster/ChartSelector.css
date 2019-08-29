@@ -1,0 +1,13 @@
+.fa-chart-line-selected {
+  color: #0095ff;
+}
+.fa-chart-bar-selected {
+  color: #0095ff;
+}
+.selector-chart {
+  cursor: pointer;
+  max-height: 20px;
+}
+.mainDiv {
+  max-height: 20px;
+}

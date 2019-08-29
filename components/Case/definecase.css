@@ -1,0 +1,14 @@
+.tableView {
+  overflow: auto;
+  /* max-height: 900px; */
+  /* height: 900px; */
+}
+.identifyClusterButton {
+  float: right;
+  top: 5px;
+  margin-right: 10px !important;
+}
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
